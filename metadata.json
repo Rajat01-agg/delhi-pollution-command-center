@@ -1,0 +1,5 @@
+{
+  "name": "Delhi Pollution Command Center",
+  "description": "A comprehensive government dashboard for monitoring ward-wise pollution levels, managing alerts, and coordinating rapid response actions in Delhi.",
+  "requestFramePermissions": []
+}
